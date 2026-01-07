@@ -1,0 +1,51 @@
+employee_id,text_feedback,emotion
+E001,I feel very happy and motivated working on my current project,happy
+E002,I am feeling stressed due to continuous deadlines,stressed
+E003,I feel bored doing the same work every day,bored
+E004,I am anxious about meeting the client expectations,anxious
+E005,I am comfortable and doing my work normally,neutral
+E006,I really enjoy collaborating with my team,happy
+E007,Work pressure is affecting my mental peace,stressed
+E008,I feel disengaged and uninterested in tasks,bored
+E009,I am worried about my performance review,anxious
+E010,Everything is going smoothly at work,neutral
+E011,I feel energetic and excited about new challenges,happy
+E012,Too much workload is making me stressed,stressed
+E013,My work has become repetitive and boring,bored
+E014,I am nervous about upcoming deadlines,anxious
+E015,Daily work routine feels balanced,neutral
+E016,I feel proud of my contributions,happy
+E017,I am mentally exhausted due to work pressure,stressed
+E018,I don’t feel motivated to work anymore,bored
+E019,I feel uncertain about job expectations,anxious
+E020,My tasks are manageable and fine,neutral
+E021,I enjoy learning new things at work,happy
+E022,Continuous overtime is stressful,stressed
+E023,Work feels dull and monotonous,bored
+E024,I am worried about project delivery,anxious
+E025,I feel calm and focused today,neutral
+E026,I am satisfied with my work progress,happy
+E027,Deadlines are overwhelming me,stressed
+E028,I feel disconnected from my tasks,bored
+E029,I feel pressure to perform better,anxious
+E030,Everything is under control at work,neutral
+E031,I am enthusiastic about my role,happy
+E032,Stress levels are increasing daily,stressed
+E033,I lack interest in current assignments,bored
+E034,I feel anxious about feedback from manager,anxious
+E035,Work environment feels stable,neutral
+E036,I feel motivated by my team,happy
+E037,Workload is negatively impacting health,stressed
+E038,Tasks do not excite me anymore,bored
+E039,I am uneasy about future responsibilities,anxious
+E040,My job feels predictable and okay,neutral
+E041,I am happy with the recognition I received,happy
+E042,I feel drained after long working hours,stressed
+E043,Work has become uninteresting lately,bored
+E044,I feel worried about meeting targets,anxious
+E045,Everything is normal at the workplace,neutral
+E046,I feel confident and positive,happy
+E047,Work stress is affecting my sleep,stressed
+E048,I feel disconnected from my role,bored
+E049,I am anxious about performance metrics,anxious
+E050,I feel balanced and composed at work,neutral

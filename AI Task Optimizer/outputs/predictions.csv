@@ -1,0 +1,51 @@
+employee_id,text_feedback,predicted_emotion,recommended_task
+E001,I feel very happy and motivated working on my current project,happy,Assign creative or challenging tasks
+E002,I am feeling stressed due to continuous deadlines,stressed,Assign light workload or flexible tasks
+E003,I feel bored doing the same work every day,bored,Assign learning or skill development tasks
+E004,I am anxious about meeting the client expectations,anxious,Assign collaborative or supportive tasks
+E005,I am comfortable and doing my work normally,neutral,Assign routine or maintenance tasks
+E006,I really enjoy collaborating with my team,happy,Assign creative or challenging tasks
+E007,Work pressure is affecting my mental peace,stressed,Assign light workload or flexible tasks
+E008,I feel disengaged and uninterested in tasks,bored,Assign learning or skill development tasks
+E009,I am worried about my performance review,anxious,Assign collaborative or supportive tasks
+E010,Everything is going smoothly at work,neutral,Assign routine or maintenance tasks
+E011,I feel energetic and excited about new challenges,happy,Assign creative or challenging tasks
+E012,Too much workload is making me stressed,stressed,Assign light workload or flexible tasks
+E013,My work has become repetitive and boring,bored,Assign learning or skill development tasks
+E014,I am nervous about upcoming deadlines,anxious,Assign collaborative or supportive tasks
+E015,Daily work routine feels balanced,neutral,Assign routine or maintenance tasks
+E016,I feel proud of my contributions,happy,Assign creative or challenging tasks
+E017,I am mentally exhausted due to work pressure,stressed,Assign light workload or flexible tasks
+E018,I don’t feel motivated to work anymore,bored,Assign learning or skill development tasks
+E019,I feel uncertain about job expectations,anxious,Assign collaborative or supportive tasks
+E020,My tasks are manageable and fine,neutral,Assign routine or maintenance tasks
+E021,I enjoy learning new things at work,happy,Assign creative or challenging tasks
+E022,Continuous overtime is stressful,stressed,Assign light workload or flexible tasks
+E023,Work feels dull and monotonous,bored,Assign learning or skill development tasks
+E024,I am worried about project delivery,anxious,Assign collaborative or supportive tasks
+E025,I feel calm and focused today,neutral,Assign routine or maintenance tasks
+E026,I am satisfied with my work progress,happy,Assign creative or challenging tasks
+E027,Deadlines are overwhelming me,stressed,Assign light workload or flexible tasks
+E028,I feel disconnected from my tasks,bored,Assign learning or skill development tasks
+E029,I feel pressure to perform better,anxious,Assign collaborative or supportive tasks
+E030,Everything is under control at work,neutral,Assign routine or maintenance tasks
+E031,I am enthusiastic about my role,happy,Assign creative or challenging tasks
+E032,Stress levels are increasing daily,stressed,Assign light workload or flexible tasks
+E033,I lack interest in current assignments,bored,Assign learning or skill development tasks
+E034,I feel anxious about feedback from manager,anxious,Assign collaborative or supportive tasks
+E035,Work environment feels stable,neutral,Assign routine or maintenance tasks
+E036,I feel motivated by my team,happy,Assign creative or challenging tasks
+E037,Workload is negatively impacting health,stressed,Assign light workload or flexible tasks
+E038,Tasks do not excite me anymore,bored,Assign learning or skill development tasks
+E039,I am uneasy about future responsibilities,anxious,Assign collaborative or supportive tasks
+E040,My job feels predictable and okay,neutral,Assign routine or maintenance tasks
+E041,I am happy with the recognition I received,happy,Assign creative or challenging tasks
+E042,I feel drained after long working hours,stressed,Assign light workload or flexible tasks
+E043,Work has become uninteresting lately,bored,Assign learning or skill development tasks
+E044,I feel worried about meeting targets,anxious,Assign collaborative or supportive tasks
+E045,Everything is normal at the workplace,neutral,Assign routine or maintenance tasks
+E046,I feel confident and positive,happy,Assign creative or challenging tasks
+E047,Work stress is affecting my sleep,stressed,Assign light workload or flexible tasks
+E048,I feel disconnected from my role,bored,Assign learning or skill development tasks
+E049,I am anxious about performance metrics,anxious,Assign collaborative or supportive tasks
+E050,I feel balanced and composed at work,neutral,Assign routine or maintenance tasks
